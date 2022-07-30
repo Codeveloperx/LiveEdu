@@ -21,7 +21,7 @@ import Quiz from '../containers/Quiz'
 export default class AppRoute extends Component {
   render() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <AuthProvider>
           <Routes> 
             <Route path='/' element={<Loading/>}/>
