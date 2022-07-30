@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LiveEdu/static/css/main.e524a72b.css",
+    "main.js": "/LiveEdu/static/js/main.176a46dd.js",
+    "index.html": "/LiveEdu/index.html",
+    "main.e524a72b.css.map": "/LiveEdu/static/css/main.e524a72b.css.map",
+    "main.176a46dd.js.map": "/LiveEdu/static/js/main.176a46dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e524a72b.css",
+    "static/js/main.176a46dd.js"
+  ]
+}
